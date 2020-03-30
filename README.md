@@ -114,11 +114,10 @@ Test case #3 : Check the login functionality
 
 <img src="https://imgur.com/I6DFAc6.png" width="80%">
 
-![Imgur](https://imgur.com/I6DFAc6.png)  
 
 <img src="https://i.imgur.com/HfpmX7D.png" width="80%">
 
-![Imgur](https://i.imgur.com/HfpmX7D.png)
+
 
 ## TestCases Execution
 
