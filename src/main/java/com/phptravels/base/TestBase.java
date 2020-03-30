@@ -1,12 +1,10 @@
 package com.phptravels.base;
 
-//import atu.testrecorder.ATUTestRecorder;
+import atu.testrecorder.ATUTestRecorder;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
@@ -16,7 +14,7 @@ public  class TestBase {
 
     public static WebDriver driver;
     public static Properties pro;
-    //public static ATUTestRecorder recorder;
+    public static ATUTestRecorder recorder;
     public static int AssertionResult = 0;
 
     public  static ExtentReports extent; // create report

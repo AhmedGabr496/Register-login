@@ -2,20 +2,14 @@
 package com.phptravels.base;
 
 import com.phptravels.util.TestUtils;
-import com.phptravels.base.TestBase;
-import com.phptravels.util.TestUtils;
 import java.io.IOException;
 
 public  class valdiatedData extends TestBase{
     public static int counter=0;  // used for email checking
-    public static int coulmn = 0;
-    public static int row = 0;
 
     public valdiatedData() throws IOException {
         super();
     }
-
-
     public static Object[][] validData() throws IOException
     {
         Object testData[][] = TestUtils.getDataFromExcel("RegistrationData");
