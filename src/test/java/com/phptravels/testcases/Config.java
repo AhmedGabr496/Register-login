@@ -3,13 +3,14 @@ package com.phptravels.testcases;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.phptravels.base.TestBase;
 import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 
 import java.io.IOException;
 
 public class Config extends TestBase {
-    public Config() throws IOException {
+
+    public Config() throws IOException
+    {
         super();
     }
     @BeforeSuite
@@ -24,10 +25,10 @@ public class Config extends TestBase {
     extent.addSystemInfo("OS","Windows");
 
     }
-
     @AfterSuite
     public void end()
     {
+
         extent.flush();
     }
 
