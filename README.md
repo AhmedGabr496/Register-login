@@ -35,12 +35,22 @@ Automation testing for Registration and login functionality for website ("https:
 
 ## How to use it
 
-Just open your command prompt and navigate to the directory where the project files are  , and then type these two command lines
+- First you have to add AUTtestRecorder jar file to your local repository (Because it doesnot have an online maven dependcy)
+  
+  * You can find the jar file on the project folder (ATUTestRecorder_2.1.jar) copy the path of the jar file. open the Terminal copy the     below command
+  
+```
+mvn install:install-file -Dfile={Path}/ATUTestRecorder_2.1.jar -DgroupId=org.aut.tm -DartifactId=cxf-bundle -Dversion=2.7.3 -Dpackaging=jar
+```
+  
+- And then just open your command prompt and navigate to the directory where the project files are  , and then type these two command     lines
+
 ```
 mvn clean
 mvn test
 ```
-##Task Requirments
+
+## Task Requirments
 1.	Enter First Name which must start with capital letter.
 
 2.	Enter Last Name which must start with capital letter and can’t be equal First Name.
@@ -102,10 +112,20 @@ Test case #3 : Check the login functionality
 
 ## Results Samples
 
+<img src="https://imgur.com/I6DFAc6.png" width="80%">
+
 ![Imgur](https://imgur.com/I6DFAc6.png)  
+
+<img src="https://i.imgur.com/HfpmX7D.png" width="80%">
 
 ![Imgur](https://i.imgur.com/HfpmX7D.png)
 
 ## TestCases Execution
 
-https://imgur.com/43gUHx3
+- Registration test Case execution ( https://imgur.com/HaCQsl9 )
+
+![TesCase GIF](https://imgur.com/43gUHx3.gif)
+
+- Login Test Case execution ( https://imgur.com/Eu60YSY )
+
+![TestCase GIF](https://imgur.com/1B6nxNa.gif)
