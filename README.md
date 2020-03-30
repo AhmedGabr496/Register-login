@@ -15,7 +15,7 @@ Automation testing for Registration and login functionality for website ("https:
 
 4-Verify the successful login in functionality by using the data passed the registration
 
-5-Genrating customized reports including screenshots for failures include Status (pass/fail)  & screenshots of all test cases 
+5-Genrating customized reports including screenshots and video records for Testcases includes Status (pass/fail) of all test cases 
 
 
 
@@ -29,6 +29,8 @@ Automation testing for Registration and login functionality for website ("https:
 * Maven                 -software project management and comprehension tool
 
 * Extent Reporting      -Extent Reporting Framework
+
+* AUTtest Recorder       -Video Recording framework
 
 
 ## How to use it
@@ -74,11 +76,11 @@ Test case #3 : Check the login functionality
 
 6-check if the registration of a new user is done successufly
 
-7-Report the status of the test case if (pass/fail) and provide screen shots in the report
+7-Report the status of the test case if (pass/fail) and provide screen shots & video records in the report
 
 8-use the data of successufly registerd users to check the abilty of login functionality
 
-9-Report the status of the test case if (pass/fail) and provide screen shots in the report
+9-Report the status of the test case if (pass/fail) and provide screen shots & video records in the report
 
 
 ## Reports
@@ -96,11 +98,14 @@ Test case #3 : Check the login functionality
 
 - Screen Shots
 
-![Imgur](https://i.imgur.com/q5bHynl.png)
+-Video Records
+
+## Results Samples
+
+![Imgur](https://imgur.com/I6DFAc6.png)  
 
 ![Imgur](https://i.imgur.com/HfpmX7D.png)
 
-
 ## TestCases Execution
 
-![Recordit GIF](http://g.recordit.co/6qDFpYv4e3.gif)
+https://imgur.com/43gUHx3
