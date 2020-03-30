@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="pixelogicTest">
+    <test thread-count="5" name="test1">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="register" value="https://www.phptravels.net/register"></parameter>
+
+        <classes>
+            <class name="com.phptravels.testcases.Config"/>
+            <class name="com.phptravels.testcases.RegisterPageTest"/>
+            <class name="com.phptravels.testcases.LoginPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- pixelogicTest -->

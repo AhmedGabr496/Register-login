@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2783e92a-77e7-442d-9d46-090bc22deb15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoamsZNOXN3aYsRCQl0Lb8AEzV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PixelogicTask/dependencies/ATU recorder/ATUTestRecorder_2.1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.E:/PixelogicTest/testng.xml">
+    <configuration name="E:/PixelogicTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterPageTest.validateRegisteration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phptravels.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.phptravels.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.phptravels.testcases.RegisterPageTest" />
+      <option name="METHOD_NAME" value="validateRegisteration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/PixelogicTest/testng.xml" />
+        <item itemvalue="TestNG.RegisterPageTest.validateRegisteration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2783e92a-77e7-442d-9d46-090bc22deb15" name="Default Changelist" comment="" />
+      <created>1585508062825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585508062825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1048" y="149" key="#Project_Structure" timestamp="1585509074381">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1048" y="149" key="#Project_Structure/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585509074381" />
+    <state x="630" y="259" key="FileChooserDialogImpl" timestamp="1585521925150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-860" y="245" key="FileChooserDialogImpl/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585511366610" />
+    <state x="630" y="259" key="FileChooserDialogImpl/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585521925150" />
+    <state width="1236" height="257" key="GridCell.Tab.0.bottom" timestamp="1585528634558">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="257" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585528634558" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585524125787" />
+    <state width="1236" height="257" key="GridCell.Tab.0.center" timestamp="1585528634558">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="257" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585528634558" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585524125787" />
+    <state width="1236" height="257" key="GridCell.Tab.0.left" timestamp="1585528634557">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="257" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585528634557" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585524125787" />
+    <state width="1236" height="257" key="GridCell.Tab.0.right" timestamp="1585528634558">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="257" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585528634558" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585524125787" />
+    <state width="1236" height="319" key="GridCell.Tab.1.bottom" timestamp="1585526956998">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="319" key="GridCell.Tab.1.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585526956998" />
+    <state width="1236" height="319" key="GridCell.Tab.1.center" timestamp="1585526956998">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="319" key="GridCell.Tab.1.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585526956998" />
+    <state width="1236" height="319" key="GridCell.Tab.1.left" timestamp="1585526956998">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="319" key="GridCell.Tab.1.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585526956998" />
+    <state width="1236" height="319" key="GridCell.Tab.1.right" timestamp="1585526956998">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="319" key="GridCell.Tab.1.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585526956998" />
+    <state x="255" y="153" key="Maven.ArtifactSearchDialog" timestamp="1585519124559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1110" y="145" key="Maven.ArtifactSearchDialog/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585511335688" />
+    <state x="255" y="153" key="Maven.ArtifactSearchDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585519124559" />
+    <state x="180" y="69" key="SettingsEditor" timestamp="1585521926278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1160" y="65" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585511379562" />
+    <state x="180" y="69" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1585521926278" />
+    <state x="-977" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1585527948506">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-977" y="211" width="672" height="678" key="search.everywhere.popup/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1585527948506" />
+  </component>
+</project>
