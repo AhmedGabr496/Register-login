@@ -110,7 +110,7 @@ Test case #3 : Check the login functionality
 
 -Video Records
 
-## Results Samples
+## Reports Results Samples
 
 <img src="https://imgur.com/I6DFAc6.png" width="80%">
 
