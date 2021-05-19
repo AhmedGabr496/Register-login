@@ -1,4 +1,3 @@
-# SDET_-_TASK   Pixelogic™ Media Egypt
 ### An automation script that automates the registration process and the verification of successful login.
 
 It is a fully automated script the completly automates the process of validating the data provided , registration of new user
